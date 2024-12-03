@@ -17,4 +17,4 @@ Can you make a circular bar plot for each individual month from 2017 to current,
 where the length of the bar is the number of riders that month, 
 and each bar is also divided into individual routes?
 I have attached an example of what it should look like, where the inner labels A, B, C etc should be the month and year Jan 2017, Feb 2017, etc until the present day.
-The length of each bar should be the total ridership that month, and each bar should be divided into routes each designated by a different color, which is included in the legend.
+The length of each bar should be the total ridership that month, and each bar should be divided into routes each designated by a different color, which is included in the legend. 
